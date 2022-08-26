@@ -20,7 +20,7 @@ cargo run
   
 **shodan**:
   - create account (https://account.shodan.io/)
-  - copy API Key from account overview and place in .ev
+  - copy API Key from account overview and place in .env
   
   
 Any items that appear in green have the default credentials and any that show in red do not.
