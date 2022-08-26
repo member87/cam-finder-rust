@@ -1,0 +1,6 @@
+target/
+debug/
+
+.env
+Cargo.lock
+
