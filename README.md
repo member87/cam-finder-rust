@@ -3,6 +3,9 @@ Find ACTi NVR3.0 IP cameras with the default login details (admin / 123456)
 
 This is a port of [cam-finder](https://github.com/member87/cam-finder) written in rust. This is still in development
 
+[![asciicast](https://asciinema.org/a/517318.svg)](https://asciinema.org/a/517318)
+
+
 ### Installation
 
 ```shell
