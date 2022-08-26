@@ -8,16 +8,21 @@ This is a port of [cam-finder](https://github.com/member87/cam-finder) written i
 
 ### Installation
 
+
+
 ```shell
 git clone https://github.com/member87/cam-finder-rust
 cd cam-finder-rust
 mv .env.example .env
 
-# fill api key in .env
-
 cargo run
 ```
-
+  
+**shodan**:
+  - create account (https://account.shodan.io/)
+  - copy API Key from account overview and place in .ev
+  
+  
 Any items that appear in green have the default credentials and any that show in red do not.
 
 
